@@ -1,1 +1,1 @@
-# plexi-ps-module
+# plexi

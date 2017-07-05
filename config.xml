@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>plexi</name>
+	<displayName><![CDATA[plexi]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Flexibee-Prestashop komunikace]]></description>
+	<author><![CDATA[Anakin]]></author>
+	<tab><![CDATA[emailing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
